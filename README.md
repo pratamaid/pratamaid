@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pratamaid
 - 👀 I’m interested in Software Engineer
 - 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to collaborate on some projects in javascript
+- 💞️ I’m looking to collaborate on some projects in Javascript
 - 📫 How to reach me pratama@teknologi.my.id
 
 <!---
